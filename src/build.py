@@ -7,43 +7,49 @@ STRIGA_FILE = os.path.join(APP_DIR, "striga-availability.json")
 PHONES_FILE = os.path.join(APP_DIR, "phone-codes.json")
 RESULT_FILE = os.path.join(os.path.dirname(APP_DIR), "country-list.json")
 
+STATES_COUNTRIES = {'US'}
+
 def main():
     with open(MOONPAY_FILE) as mp:
         moonpay = {
             item["alpha2"]: item for item in json.load(mp)
-            }
+        }
 
     with open(STRIGA_FILE) as st:
         striga = set(json.load(st))
 
     with open(PHONES_FILE) as ph:
-        phones = json.load(ph)
-
-    output = {}
-    
-    for item in phones:
-        output[item["name_code"]] = {
-            "name": decode(item["name"]),
-            "alpha2": item["name_code"],
-            "alpha3": item["name_code_alpha3"],
-            "flag_emoji": item["flag_emoji"],
-            "is_striga_allowed": item["name_code"] in striga,
-            "is_moonpay_allowed": item["name_code"] in moonpay,
+        phones = {
+            item["name_code"]: item for item in json.load(ph)
         }
 
-    for code, item in moonpay.items():
-        if code not in output:
-            output[code] = {
-                "name": decode(item["name"]),
-                "alpha2": item["alpha2"],
-                "alpha3": item["alpha3"],
-                "flag_emoji": None,
-                "is_striga_allowed": item["alpha2"] in striga,
-                "is_moonpay_allowed": True,
-            }
+    codes = { *moonpay.keys(), *phones.keys() }
 
-    output = list(output.values())
-    output.sort(key=lambda item: item["alpha2"])
+    output = []
+    
+    for code in sorted(codes):
+        mp = moonpay.get(code) or {}
+        ph = phones.get(code) or {}
+        name = decode(mp.get("name") or ph.get("name"))
+
+        if code in STATES_COUNTRIES and 'states' in mp:
+            output.extend({
+                'name': f"{name} ({state['name']})",
+                'alpha2': code,
+                'alpha3': mp.get("alpha3") or ph.get("name_code_alpha3"),
+                'flag_emoji': ph.get("flag_emoji"),
+                'is_striga_allowed': code in striga,
+                'is_moonpay_allowed': state.get("isAllowed") or False,
+            } for state in mp['states'])
+        else:
+            output.append({
+                'name': name,
+                'alpha2': code,
+                'alpha3': mp.get("alpha3") or ph.get("name_code_alpha3"),
+                'flag_emoji': ph.get("flag_emoji"),
+                'is_striga_allowed': code in striga,
+                'is_moonpay_allowed': mp.get("isAllowed") or False,
+            })
 
     with open(RESULT_FILE, "w") as out:
         json.dump(output, out, indent=4)

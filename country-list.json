@@ -8,7 +8,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "United Arab Emirates (UAE)",
+        "name": "United Arab Emirates",
         "alpha2": "AE",
         "alpha3": "ARE",
         "flag_emoji": "&#127462;&#127466;",
@@ -128,7 +128,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Bosnia And Herzegovina",
+        "name": "Bosnia and Herzegovina",
         "alpha2": "BA",
         "alpha3": "BIH",
         "flag_emoji": "&#127463;&#127462;",
@@ -312,7 +312,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Congo(Rep.)",
+        "name": "Congo",
         "alpha2": "CG",
         "alpha3": "COG",
         "flag_emoji": "&#127464;&#127468;",
@@ -392,7 +392,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "Cape Verde",
+        "name": "Cabo Verde",
         "alpha2": "CV",
         "alpha3": "CPV",
         "flag_emoji": "&#127464;&#127483;",
@@ -424,7 +424,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Czech Republic",
+        "name": "Czechia",
         "alpha2": "CZ",
         "alpha3": "CZE",
         "flag_emoji": "&#127464;&#127487;",
@@ -560,7 +560,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "Micronesia",
+        "name": "Micronesia (Federated States of)",
         "alpha2": "FM",
         "alpha3": "FSM",
         "flag_emoji": "&#127467;&#127474;",
@@ -712,7 +712,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "Guinea-bissau",
+        "name": "Guinea-Bissau",
         "alpha2": "GW",
         "alpha3": "GNB",
         "flag_emoji": "&#127468;&#127484;",
@@ -936,7 +936,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "South Korea",
+        "name": "Korea, Republic of",
         "alpha2": "KR",
         "alpha3": "KOR",
         "flag_emoji": "&#127472;&#127479;",
@@ -1072,7 +1072,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Moldova",
+        "name": "Moldova, Republic of",
         "alpha2": "MD",
         "alpha3": "MDA",
         "flag_emoji": "&#127474;&#127465;",
@@ -1112,7 +1112,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Macedonia (FYROM)",
+        "name": "North Macedonia",
         "alpha2": "MK",
         "alpha3": "MKD",
         "flag_emoji": "&#127474;&#127472;",
@@ -1432,7 +1432,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "Palestine",
+        "name": "Palestine, State of",
         "alpha2": "PS",
         "alpha3": "PSE",
         "flag_emoji": "&#127477;&#127480;",
@@ -1501,7 +1501,7 @@
         "alpha3": "RUS",
         "flag_emoji": "&#127479;&#127482;",
         "is_striga_allowed": false,
-        "is_moonpay_allowed": true
+        "is_moonpay_allowed": false
     },
     {
         "name": "Rwanda",
@@ -1632,7 +1632,7 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "Sao Tome And Principe",
+        "name": "Sao Tome and Principe",
         "alpha2": "ST",
         "alpha3": "STP",
         "flag_emoji": "&#127480;&#127481;",
@@ -1784,7 +1784,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Tanzania",
+        "name": "Tanzania, United Republic of",
         "alpha2": "TZ",
         "alpha3": "TZA",
         "flag_emoji": "&#127481;&#127487;",
@@ -1797,7 +1797,7 @@
         "alpha3": "UKR",
         "flag_emoji": "&#127482;&#127462;",
         "is_striga_allowed": false,
-        "is_moonpay_allowed": true
+        "is_moonpay_allowed": false
     },
     {
         "name": "Uganda",
@@ -1808,7 +1808,423 @@
         "is_moonpay_allowed": false
     },
     {
-        "name": "United States",
+        "name": "United States of America (Alabama)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Alaska)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Arizona)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Arkansas)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (California)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Colorado)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Connecticut)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Delaware)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (District of Columbia)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Florida)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Georgia)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Hawaii)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Idaho)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Illinois)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Indiana)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Iowa)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Kansas)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Kentucky)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Louisiana)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Maine)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Maryland)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Massachusetts)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Michigan)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Minnesota)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Mississippi)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Missouri)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Montana)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Nebraska)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Nevada)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (New Hampshire)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (New Jersey)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (New Mexico)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (New York)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": false
+    },
+    {
+        "name": "United States of America (North Carolina)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (North Dakota)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Ohio)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Oklahoma)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Oregon)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Pennsylvania)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Puerto Rico)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Rhode Island)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (South Carolina)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (South Dakota)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Tennessee)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Texas)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Utah)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Vermont)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Virginia)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Virgin Islands (U.S.))",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": false
+    },
+    {
+        "name": "United States of America (Washington)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (West Virginia)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Wisconsin)",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "flag_emoji": "&#127482;&#127480;",
+        "is_striga_allowed": false,
+        "is_moonpay_allowed": true
+    },
+    {
+        "name": "United States of America (Wyoming)",
         "alpha2": "US",
         "alpha3": "USA",
         "flag_emoji": "&#127482;&#127480;",
@@ -1832,7 +2248,7 @@
         "is_moonpay_allowed": true
     },
     {
-        "name": "Holy See (vatican City State)",
+        "name": "Vatican City",
         "alpha2": "VA",
         "alpha3": "VAT",
         "flag_emoji": "&#127483;&#127462;",
