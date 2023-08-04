@@ -7,8 +7,6 @@ STRIGA_FILE = os.path.join(APP_DIR, "striga-availability.json")
 PHONES_FILE = os.path.join(APP_DIR, "phone-codes.json")
 RESULT_FILE = os.path.join(os.path.dirname(APP_DIR), "country-list.json")
 
-STATES_COUNTRIES = {'US'}
-
 def main():
     with open(MOONPAY_FILE) as mp:
         moonpay = {
@@ -32,7 +30,7 @@ def main():
         ph = phones.get(code) or {}
         name = decode(mp.get("name") or ph.get("name"))
 
-        if code in STATES_COUNTRIES and 'states' in mp:
+        if 'states' in mp and not all(s.get('isAllowed') for s in mp['states']):
             output.extend({
                 'name': f"{name} ({state['name']})",
                 'alpha2': code,
