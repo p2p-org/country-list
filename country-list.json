@@ -1,5 +1,6 @@
 [
     {
+        "name": "Andorra",
         "alpha2": "AD",
         "alpha3": "AND",
         "flag_emoji": "&#127462;&#127465;",
@@ -7,6 +8,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "United Arab Emirates (UAE)",
         "alpha2": "AE",
         "alpha3": "ARE",
         "flag_emoji": "&#127462;&#127466;",
@@ -14,6 +16,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Afghanistan",
         "alpha2": "AF",
         "alpha3": "AFG",
         "flag_emoji": "&#127462;&#127467;",
@@ -21,6 +24,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Antigua and Barbuda",
         "alpha2": "AG",
         "alpha3": "ATG",
         "flag_emoji": "&#127462;&#127468;",
@@ -28,6 +32,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Anguilla",
         "alpha2": "AI",
         "alpha3": "AIA",
         "flag_emoji": "&#127462;&#127470;",
@@ -35,6 +40,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Albania",
         "alpha2": "AL",
         "alpha3": "ALB",
         "flag_emoji": "&#127462;&#127473;",
@@ -42,6 +48,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Armenia",
         "alpha2": "AM",
         "alpha3": "ARM",
         "flag_emoji": "&#127462;&#127474;",
@@ -49,6 +56,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Angola",
         "alpha2": "AO",
         "alpha3": "AGO",
         "flag_emoji": "&#127462;&#127476;",
@@ -56,6 +64,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Antarctica",
         "alpha2": "AQ",
         "alpha3": "ATA",
         "flag_emoji": "&#127462;&#127478;",
@@ -63,6 +72,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Argentina",
         "alpha2": "AR",
         "alpha3": "ARG",
         "flag_emoji": "&#127462;&#127479;",
@@ -70,6 +80,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "American Samoa",
         "alpha2": "AS",
         "alpha3": "ASM",
         "flag_emoji": "&#127462;&#127480;",
@@ -77,6 +88,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Austria",
         "alpha2": "AT",
         "alpha3": "AUT",
         "flag_emoji": "&#127462;&#127481;",
@@ -84,6 +96,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Australia",
         "alpha2": "AU",
         "alpha3": "AUS",
         "flag_emoji": "&#127462;&#127482;",
@@ -91,6 +104,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Aruba",
         "alpha2": "AW",
         "alpha3": "ABW",
         "flag_emoji": "&#127462;&#127484;",
@@ -98,6 +112,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Aland Islands",
         "alpha2": "AX",
         "alpha3": "ALA",
         "flag_emoji": "&#127462;&#127485;",
@@ -105,6 +120,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Azerbaijan",
         "alpha2": "AZ",
         "alpha3": "AZE",
         "flag_emoji": "&#127462;&#127487;",
@@ -112,6 +128,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Bosnia And Herzegovina",
         "alpha2": "BA",
         "alpha3": "BIH",
         "flag_emoji": "&#127463;&#127462;",
@@ -119,6 +136,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Barbados",
         "alpha2": "BB",
         "alpha3": "BRB",
         "flag_emoji": "&#127463;&#127463;",
@@ -126,6 +144,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Bangladesh",
         "alpha2": "BD",
         "alpha3": "BGD",
         "flag_emoji": "&#127463;&#127465;",
@@ -133,6 +152,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Belgium",
         "alpha2": "BE",
         "alpha3": "BEL",
         "flag_emoji": "&#127463;&#127466;",
@@ -140,6 +160,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Burkina Faso",
         "alpha2": "BF",
         "alpha3": "BFA",
         "flag_emoji": "&#127463;&#127467;",
@@ -147,6 +168,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Bulgaria",
         "alpha2": "BG",
         "alpha3": "BGR",
         "flag_emoji": "&#127463;&#127468;",
@@ -154,6 +176,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Bahrain",
         "alpha2": "BH",
         "alpha3": "BHR",
         "flag_emoji": "&#127463;&#127469;",
@@ -161,6 +184,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Burundi",
         "alpha2": "BI",
         "alpha3": "BDI",
         "flag_emoji": "&#127463;&#127470;",
@@ -168,6 +192,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Benin",
         "alpha2": "BJ",
         "alpha3": "BEN",
         "flag_emoji": "&#127463;&#127471;",
@@ -175,6 +200,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Barth\u00e9lemy",
         "alpha2": "BL",
         "alpha3": "BML",
         "flag_emoji": "&#127463;&#127473;",
@@ -182,6 +208,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Bermuda",
         "alpha2": "BM",
         "alpha3": "BMU",
         "flag_emoji": "&#127463;&#127474;",
@@ -189,6 +216,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Brunei Darussalam",
         "alpha2": "BN",
         "alpha3": "BRN",
         "flag_emoji": "&#127463;&#127475;",
@@ -196,6 +224,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Bolivia",
         "alpha2": "BO",
         "alpha3": "BOL",
         "flag_emoji": "&#127463;&#127476;",
@@ -203,6 +232,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Brazil",
         "alpha2": "BR",
         "alpha3": "BRA",
         "flag_emoji": "&#127463;&#127479;",
@@ -210,6 +240,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Bahamas",
         "alpha2": "BS",
         "alpha3": "BHS",
         "flag_emoji": "&#127463;&#127480;",
@@ -217,6 +248,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Bhutan",
         "alpha2": "BT",
         "alpha3": "BTN",
         "flag_emoji": "&#127463;&#127481;",
@@ -224,6 +256,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Botswana",
         "alpha2": "BW",
         "alpha3": "BWA",
         "flag_emoji": "&#127463;&#127484;",
@@ -231,6 +264,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Belarus",
         "alpha2": "BY",
         "alpha3": "BLR",
         "flag_emoji": "&#127463;&#127486;",
@@ -238,6 +272,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Belize",
         "alpha2": "BZ",
         "alpha3": "BLZ",
         "flag_emoji": "&#127463;&#127487;",
@@ -245,6 +280,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Canada",
         "alpha2": "CA",
         "alpha3": "CAN",
         "flag_emoji": "&#127464;&#127462;",
@@ -252,6 +288,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Cocos (keeling) Islands",
         "alpha2": "CC",
         "alpha3": "CCK",
         "flag_emoji": "&#127464;&#127464;",
@@ -259,6 +296,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Congo(Dem.Rep.)",
         "alpha2": "CD",
         "alpha3": "COD",
         "flag_emoji": "&#127464;&#127465;",
@@ -266,6 +304,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Central African Republic",
         "alpha2": "CF",
         "alpha3": "CAF",
         "flag_emoji": "&#127464;&#127467;",
@@ -273,6 +312,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Congo(Rep.)",
         "alpha2": "CG",
         "alpha3": "COG",
         "flag_emoji": "&#127464;&#127468;",
@@ -280,6 +320,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Switzerland",
         "alpha2": "CH",
         "alpha3": "CHE",
         "flag_emoji": "&#127464;&#127469;",
@@ -287,6 +328,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "C\u00f4te D'ivoire",
         "alpha2": "CI",
         "alpha3": "CIV",
         "flag_emoji": "&#127464;&#127470;",
@@ -294,6 +336,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Cook Islands",
         "alpha2": "CK",
         "alpha3": "COK",
         "flag_emoji": "&#127464;&#127472;",
@@ -301,6 +344,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Chile",
         "alpha2": "CL",
         "alpha3": "CHL",
         "flag_emoji": "&#127464;&#127473;",
@@ -308,6 +352,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Cameroon",
         "alpha2": "CM",
         "alpha3": "CMR",
         "flag_emoji": "&#127464;&#127474;",
@@ -315,6 +360,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "China",
         "alpha2": "CN",
         "alpha3": "CHN",
         "flag_emoji": "&#127464;&#127475;",
@@ -322,6 +368,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Colombia",
         "alpha2": "CO",
         "alpha3": "COL",
         "flag_emoji": "&#127464;&#127476;",
@@ -329,6 +376,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Costa Rica",
         "alpha2": "CR",
         "alpha3": "CRI",
         "flag_emoji": "&#127464;&#127479;",
@@ -336,6 +384,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Cuba",
         "alpha2": "CU",
         "alpha3": "CUB",
         "flag_emoji": "&#127464;&#127482;",
@@ -343,6 +392,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Cape Verde",
         "alpha2": "CV",
         "alpha3": "CPV",
         "flag_emoji": "&#127464;&#127483;",
@@ -350,6 +400,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Curacao",
         "alpha2": "CW",
         "alpha3": "CUW",
         "flag_emoji": "&#127464;&#127484;",
@@ -357,6 +408,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Christmas Island",
         "alpha2": "CX",
         "alpha3": "CXR",
         "flag_emoji": "&#127464;&#127485;",
@@ -364,6 +416,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Cyprus",
         "alpha2": "CY",
         "alpha3": "CYP",
         "flag_emoji": "&#127464;&#127486;",
@@ -371,6 +424,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Czech Republic",
         "alpha2": "CZ",
         "alpha3": "CZE",
         "flag_emoji": "&#127464;&#127487;",
@@ -378,6 +432,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Germany",
         "alpha2": "DE",
         "alpha3": "DEU",
         "flag_emoji": "&#127465;&#127466;",
@@ -385,6 +440,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Djibouti",
         "alpha2": "DJ",
         "alpha3": "DJI",
         "flag_emoji": "&#127465;&#127471;",
@@ -392,6 +448,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Denmark",
         "alpha2": "DK",
         "alpha3": "DNK",
         "flag_emoji": "&#127465;&#127472;",
@@ -399,6 +456,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Dominica",
         "alpha2": "DM",
         "alpha3": "DMA",
         "flag_emoji": "&#127465;&#127474;",
@@ -406,6 +464,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Dominican Republic",
         "alpha2": "DO",
         "alpha3": "DOM",
         "flag_emoji": "&#127465;&#127476;",
@@ -413,6 +472,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Algeria",
         "alpha2": "DZ",
         "alpha3": "DZA",
         "flag_emoji": "&#127465;&#127487;",
@@ -420,6 +480,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Ecuador",
         "alpha2": "EC",
         "alpha3": "ECU",
         "flag_emoji": "&#127466;&#127464;",
@@ -427,6 +488,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Estonia",
         "alpha2": "EE",
         "alpha3": "EST",
         "flag_emoji": "&#127466;&#127466;",
@@ -434,6 +496,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Egypt",
         "alpha2": "EG",
         "alpha3": "EGY",
         "flag_emoji": "&#127466;&#127468;",
@@ -441,6 +504,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Western Sahara",
         "alpha2": "EH",
         "alpha3": "ESH",
         "flag_emoji": null,
@@ -448,6 +512,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Eritrea",
         "alpha2": "ER",
         "alpha3": "ERI",
         "flag_emoji": "&#127466;&#127479;",
@@ -455,6 +520,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Spain",
         "alpha2": "ES",
         "alpha3": "ESP",
         "flag_emoji": "&#127466;&#127480;",
@@ -462,6 +528,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Ethiopia",
         "alpha2": "ET",
         "alpha3": "ETH",
         "flag_emoji": "&#127466;&#127481;",
@@ -469,6 +536,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Finland",
         "alpha2": "FI",
         "alpha3": "FIN",
         "flag_emoji": "&#127467;&#127470;",
@@ -476,6 +544,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Fiji",
         "alpha2": "FJ",
         "alpha3": "FJI",
         "flag_emoji": "&#127467;&#127471;",
@@ -483,6 +552,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Falkland Islands (malvinas)",
         "alpha2": "FK",
         "alpha3": "FLK",
         "flag_emoji": "&#127467;&#127472;",
@@ -490,6 +560,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Micronesia",
         "alpha2": "FM",
         "alpha3": "FSM",
         "flag_emoji": "&#127467;&#127474;",
@@ -497,6 +568,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Faroe Islands",
         "alpha2": "FO",
         "alpha3": "FRO",
         "flag_emoji": "&#127467;&#127476;",
@@ -504,6 +576,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "France",
         "alpha2": "FR",
         "alpha3": "FRA",
         "flag_emoji": "&#127467;&#127479;",
@@ -511,6 +584,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Gabon",
         "alpha2": "GA",
         "alpha3": "GAB",
         "flag_emoji": "&#127468;&#127462;",
@@ -518,6 +592,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "United Kingdom",
         "alpha2": "GB",
         "alpha3": "GBR",
         "flag_emoji": "&#127468;&#127463;",
@@ -525,6 +600,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Grenada",
         "alpha2": "GD",
         "alpha3": "GRD",
         "flag_emoji": "&#127468;&#127465;",
@@ -532,6 +608,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Georgia",
         "alpha2": "GE",
         "alpha3": "GEO",
         "flag_emoji": "&#127468;&#127466;",
@@ -539,6 +616,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "French Guyana",
         "alpha2": "GF",
         "alpha3": "GUF",
         "flag_emoji": "&#127468;&#127467;",
@@ -546,6 +624,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Guernsey",
         "alpha2": "GG",
         "alpha3": "GGY",
         "flag_emoji": "&#127468;&#127468;",
@@ -553,6 +632,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Ghana",
         "alpha2": "GH",
         "alpha3": "GHA",
         "flag_emoji": "&#127468;&#127469;",
@@ -560,6 +640,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Gibraltar",
         "alpha2": "GI",
         "alpha3": "GIB",
         "flag_emoji": "&#127468;&#127470;",
@@ -567,6 +648,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Greenland",
         "alpha2": "GL",
         "alpha3": "GRL",
         "flag_emoji": "&#127468;&#127473;",
@@ -574,6 +656,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Gambia",
         "alpha2": "GM",
         "alpha3": "GMB",
         "flag_emoji": "&#127468;&#127474;",
@@ -581,6 +664,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Guinea",
         "alpha2": "GN",
         "alpha3": "GIN",
         "flag_emoji": "&#127468;&#127475;",
@@ -588,6 +672,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Guadeloupe",
         "alpha2": "GP",
         "alpha3": "GLP",
         "flag_emoji": "&#127468;&#127477;",
@@ -595,6 +680,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Equatorial Guinea",
         "alpha2": "GQ",
         "alpha3": "GNQ",
         "flag_emoji": "&#127468;&#127478;",
@@ -602,6 +688,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Greece",
         "alpha2": "GR",
         "alpha3": "GRC",
         "flag_emoji": "&#127468;&#127479;",
@@ -609,6 +696,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Guatemala",
         "alpha2": "GT",
         "alpha3": "GTM",
         "flag_emoji": "&#127468;&#127481;",
@@ -616,6 +704,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Guam",
         "alpha2": "GU",
         "alpha3": "GUM",
         "flag_emoji": "&#127468;&#127482;",
@@ -623,6 +712,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Guinea-bissau",
         "alpha2": "GW",
         "alpha3": "GNB",
         "flag_emoji": "&#127468;&#127484;",
@@ -630,6 +720,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Guyana",
         "alpha2": "GY",
         "alpha3": "GUY",
         "flag_emoji": "&#127468;&#127486;",
@@ -637,6 +728,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Hong Kong",
         "alpha2": "HK",
         "alpha3": "HKG",
         "flag_emoji": "&#127469;&#127472;",
@@ -644,6 +736,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Honduras",
         "alpha2": "HN",
         "alpha3": "HND",
         "flag_emoji": "&#127469;&#127475;",
@@ -651,6 +744,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Croatia",
         "alpha2": "HR",
         "alpha3": "HRV",
         "flag_emoji": "&#127469;&#127479;",
@@ -658,6 +752,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Haiti",
         "alpha2": "HT",
         "alpha3": "HTI",
         "flag_emoji": "&#127469;&#127481;",
@@ -665,6 +760,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Hungary",
         "alpha2": "HU",
         "alpha3": "HUN",
         "flag_emoji": "&#127469;&#127482;",
@@ -672,6 +768,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Indonesia",
         "alpha2": "ID",
         "alpha3": "IDN",
         "flag_emoji": "&#127470;&#127465;",
@@ -679,6 +776,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Ireland",
         "alpha2": "IE",
         "alpha3": "IRL",
         "flag_emoji": "&#127470;&#127466;",
@@ -686,6 +784,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Israel",
         "alpha2": "IL",
         "alpha3": "ISR",
         "flag_emoji": "&#127470;&#127473;",
@@ -693,6 +792,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Isle Of Man",
         "alpha2": "IM",
         "alpha3": "IMN",
         "flag_emoji": "&#127470;&#127474;",
@@ -700,6 +800,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "India",
         "alpha2": "IN",
         "alpha3": "IND",
         "flag_emoji": "&#127470;&#127475;",
@@ -707,6 +808,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "British Indian Ocean Territory",
         "alpha2": "IO",
         "alpha3": "IOT",
         "flag_emoji": "&#127470;&#127476;",
@@ -714,6 +816,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Iraq",
         "alpha2": "IQ",
         "alpha3": "IRQ",
         "flag_emoji": "&#127470;&#127478;",
@@ -721,6 +824,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Iran",
         "alpha2": "IR",
         "alpha3": "IRN",
         "flag_emoji": "&#127470;&#127479;",
@@ -728,6 +832,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Iceland",
         "alpha2": "IS",
         "alpha3": "ISL",
         "flag_emoji": "&#127470;&#127480;",
@@ -735,6 +840,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Italy",
         "alpha2": "IT",
         "alpha3": "ITA",
         "flag_emoji": "&#127470;&#127481;",
@@ -742,6 +848,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Jersey",
         "alpha2": "JE",
         "alpha3": "JEY",
         "flag_emoji": "&#127471;&#127466;",
@@ -749,6 +856,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Jamaica",
         "alpha2": "JM",
         "alpha3": "JAM",
         "flag_emoji": "&#127471;&#127474;",
@@ -756,6 +864,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Jordan",
         "alpha2": "JO",
         "alpha3": "JOR",
         "flag_emoji": "&#127471;&#127476;",
@@ -763,6 +872,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Japan",
         "alpha2": "JP",
         "alpha3": "JPN",
         "flag_emoji": "&#127471;&#127477;",
@@ -770,6 +880,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Kenya",
         "alpha2": "KE",
         "alpha3": "KEN",
         "flag_emoji": "&#127472;&#127466;",
@@ -777,6 +888,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Kyrgyzstan",
         "alpha2": "KG",
         "alpha3": "KGZ",
         "flag_emoji": "&#127472;&#127468;",
@@ -784,6 +896,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Cambodia",
         "alpha2": "KH",
         "alpha3": "KHM",
         "flag_emoji": "&#127472;&#127469;",
@@ -791,6 +904,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Kiribati",
         "alpha2": "KI",
         "alpha3": "KIR",
         "flag_emoji": "&#127472;&#127470;",
@@ -798,6 +912,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Comoros",
         "alpha2": "KM",
         "alpha3": "COM",
         "flag_emoji": "&#127472;&#127474;",
@@ -805,6 +920,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Saint Kitts and Nevis",
         "alpha2": "KN",
         "alpha3": "KNA",
         "flag_emoji": "&#127472;&#127475;",
@@ -812,6 +928,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "North Korea",
         "alpha2": "KP",
         "alpha3": "PRK",
         "flag_emoji": "&#127472;&#127477;",
@@ -819,6 +936,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "South Korea",
         "alpha2": "KR",
         "alpha3": "KOR",
         "flag_emoji": "&#127472;&#127479;",
@@ -826,6 +944,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Kuwait",
         "alpha2": "KW",
         "alpha3": "KWT",
         "flag_emoji": "&#127472;&#127484;",
@@ -833,6 +952,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Cayman Islands",
         "alpha2": "KY",
         "alpha3": "CYM",
         "flag_emoji": "&#127472;&#127486;",
@@ -840,6 +960,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Kazakhstan",
         "alpha2": "KZ",
         "alpha3": "KAZ",
         "flag_emoji": "&#127472;&#127487;",
@@ -847,6 +968,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Lao People's Democratic Republic",
         "alpha2": "LA",
         "alpha3": "LAO",
         "flag_emoji": "&#127473;&#127462;",
@@ -854,6 +976,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Lebanon",
         "alpha2": "LB",
         "alpha3": "LBN",
         "flag_emoji": "&#127473;&#127463;",
@@ -861,6 +984,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Lucia",
         "alpha2": "LC",
         "alpha3": "LCA",
         "flag_emoji": "&#127473;&#127464;",
@@ -868,6 +992,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Liechtenstein",
         "alpha2": "LI",
         "alpha3": "LIE",
         "flag_emoji": "&#127473;&#127470;",
@@ -875,6 +1000,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Sri Lanka",
         "alpha2": "LK",
         "alpha3": "LKA",
         "flag_emoji": "&#127473;&#127472;",
@@ -882,6 +1008,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Liberia",
         "alpha2": "LR",
         "alpha3": "LBR",
         "flag_emoji": "&#127473;&#127479;",
@@ -889,6 +1016,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Lesotho",
         "alpha2": "LS",
         "alpha3": "LSO",
         "flag_emoji": "&#127473;&#127480;",
@@ -896,6 +1024,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Lithuania",
         "alpha2": "LT",
         "alpha3": "LTU",
         "flag_emoji": "&#127473;&#127481;",
@@ -903,6 +1032,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Luxembourg",
         "alpha2": "LU",
         "alpha3": "LUX",
         "flag_emoji": "&#127473;&#127482;",
@@ -910,6 +1040,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Latvia",
         "alpha2": "LV",
         "alpha3": "LVA",
         "flag_emoji": "&#127473;&#127483;",
@@ -917,6 +1048,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Libya",
         "alpha2": "LY",
         "alpha3": "LBY",
         "flag_emoji": "&#127473;&#127486;",
@@ -924,6 +1056,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Morocco",
         "alpha2": "MA",
         "alpha3": "MAR",
         "flag_emoji": "&#127474;&#127462;",
@@ -931,6 +1064,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Monaco",
         "alpha2": "MC",
         "alpha3": "MCO",
         "flag_emoji": "&#127474;&#127464;",
@@ -938,6 +1072,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Moldova",
         "alpha2": "MD",
         "alpha3": "MDA",
         "flag_emoji": "&#127474;&#127465;",
@@ -945,6 +1080,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Montenegro",
         "alpha2": "ME",
         "alpha3": "MNE",
         "flag_emoji": "&#127474;&#127466;",
@@ -952,6 +1088,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Martin",
         "alpha2": "MF",
         "alpha3": "MAF",
         "flag_emoji": "&#127474;&#127467;",
@@ -959,6 +1096,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Madagascar",
         "alpha2": "MG",
         "alpha3": "MDG",
         "flag_emoji": "&#127474;&#127468;",
@@ -966,6 +1104,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Marshall Islands",
         "alpha2": "MH",
         "alpha3": "MHL",
         "flag_emoji": "&#127474;&#127469;",
@@ -973,6 +1112,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Macedonia (FYROM)",
         "alpha2": "MK",
         "alpha3": "MKD",
         "flag_emoji": "&#127474;&#127472;",
@@ -980,6 +1120,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Mali",
         "alpha2": "ML",
         "alpha3": "MLI",
         "flag_emoji": "&#127474;&#127473;",
@@ -987,6 +1128,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Myanmar",
         "alpha2": "MM",
         "alpha3": "MMR",
         "flag_emoji": "&#127474;&#127474;",
@@ -994,6 +1136,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Mongolia",
         "alpha2": "MN",
         "alpha3": "MNG",
         "flag_emoji": "&#127474;&#127475;",
@@ -1001,6 +1144,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Macau",
         "alpha2": "MO",
         "alpha3": "MAC",
         "flag_emoji": "&#127474;&#127476;",
@@ -1008,6 +1152,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Northern Mariana Islands",
         "alpha2": "MP",
         "alpha3": "MNP",
         "flag_emoji": "&#127474;&#127477;",
@@ -1015,6 +1160,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Martinique",
         "alpha2": "MQ",
         "alpha3": "MTQ",
         "flag_emoji": "&#127474;&#127478;",
@@ -1022,6 +1168,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Mauritania",
         "alpha2": "MR",
         "alpha3": "MRT",
         "flag_emoji": "&#127474;&#127479;",
@@ -1029,6 +1176,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Montserrat",
         "alpha2": "MS",
         "alpha3": "MSR",
         "flag_emoji": "&#127474;&#127480;",
@@ -1036,6 +1184,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Malta",
         "alpha2": "MT",
         "alpha3": "MLT",
         "flag_emoji": "&#127474;&#127481;",
@@ -1043,6 +1192,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Mauritius",
         "alpha2": "MU",
         "alpha3": "MUS",
         "flag_emoji": "&#127474;&#127482;",
@@ -1050,6 +1200,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Maldives",
         "alpha2": "MV",
         "alpha3": "MDV",
         "flag_emoji": "&#127474;&#127483;",
@@ -1057,6 +1208,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Malawi",
         "alpha2": "MW",
         "alpha3": "MWI",
         "flag_emoji": "&#127474;&#127484;",
@@ -1064,6 +1216,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Mexico",
         "alpha2": "MX",
         "alpha3": "MEX",
         "flag_emoji": "&#127474;&#127485;",
@@ -1071,6 +1224,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Malaysia",
         "alpha2": "MY",
         "alpha3": "MYS",
         "flag_emoji": "&#127474;&#127486;",
@@ -1078,6 +1232,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Mozambique",
         "alpha2": "MZ",
         "alpha3": "MOZ",
         "flag_emoji": "&#127474;&#127487;",
@@ -1085,6 +1240,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Namibia",
         "alpha2": "NA",
         "alpha3": "NAM",
         "flag_emoji": "&#127475;&#127462;",
@@ -1092,6 +1248,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "New Caledonia",
         "alpha2": "NC",
         "alpha3": "NCL",
         "flag_emoji": "&#127475;&#127464;",
@@ -1099,6 +1256,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Niger",
         "alpha2": "NE",
         "alpha3": "NER",
         "flag_emoji": "&#127475;&#127466;",
@@ -1106,6 +1264,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Norfolk Islands",
         "alpha2": "NF",
         "alpha3": "NFK",
         "flag_emoji": "&#127475;&#127467;",
@@ -1113,6 +1272,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Nigeria",
         "alpha2": "NG",
         "alpha3": "NGA",
         "flag_emoji": "&#127475;&#127468;",
@@ -1120,6 +1280,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Nicaragua",
         "alpha2": "NI",
         "alpha3": "NIC",
         "flag_emoji": "&#127475;&#127470;",
@@ -1127,6 +1288,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Netherlands",
         "alpha2": "NL",
         "alpha3": "NLD",
         "flag_emoji": "&#127475;&#127473;",
@@ -1134,6 +1296,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Norway",
         "alpha2": "NO",
         "alpha3": "NOR",
         "flag_emoji": "&#127475;&#127476;",
@@ -1141,6 +1304,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Nepal",
         "alpha2": "NP",
         "alpha3": "NPL",
         "flag_emoji": "&#127475;&#127477;",
@@ -1148,6 +1312,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Nauru",
         "alpha2": "NR",
         "alpha3": "NRU",
         "flag_emoji": "&#127475;&#127479;",
@@ -1155,6 +1320,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Niue",
         "alpha2": "NU",
         "alpha3": "NIU",
         "flag_emoji": "&#127475;&#127482;",
@@ -1162,6 +1328,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "New Zealand",
         "alpha2": "NZ",
         "alpha3": "NZL",
         "flag_emoji": "&#127475;&#127487;",
@@ -1169,6 +1336,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Oman",
         "alpha2": "OM",
         "alpha3": "OMN",
         "flag_emoji": "&#127476;&#127474;",
@@ -1176,6 +1344,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "United Kingdom Overseas Territory",
         "alpha2": "OT",
         "alpha3": "BOT",
         "flag_emoji": null,
@@ -1183,6 +1352,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Panama",
         "alpha2": "PA",
         "alpha3": "PAN",
         "flag_emoji": "&#127477;&#127462;",
@@ -1190,6 +1360,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Peru",
         "alpha2": "PE",
         "alpha3": "PER",
         "flag_emoji": "&#127477;&#127466;",
@@ -1197,6 +1368,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "French Polynesia",
         "alpha2": "PF",
         "alpha3": "PYF",
         "flag_emoji": "&#127477;&#127467;",
@@ -1204,6 +1376,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Papua New Guinea",
         "alpha2": "PG",
         "alpha3": "PNG",
         "flag_emoji": "&#127477;&#127468;",
@@ -1211,6 +1384,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Philippines",
         "alpha2": "PH",
         "alpha3": "PHL",
         "flag_emoji": "&#127477;&#127469;",
@@ -1218,6 +1392,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Pakistan",
         "alpha2": "PK",
         "alpha3": "PAK",
         "flag_emoji": "&#127477;&#127472;",
@@ -1225,6 +1400,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Poland",
         "alpha2": "PL",
         "alpha3": "POL",
         "flag_emoji": "&#127477;&#127473;",
@@ -1232,6 +1408,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Pierre And Miquelon",
         "alpha2": "PM",
         "alpha3": "SPM",
         "flag_emoji": "&#127477;&#127474;",
@@ -1239,6 +1416,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Pitcairn Islands",
         "alpha2": "PN",
         "alpha3": "PCN",
         "flag_emoji": "&#127477;&#127475;",
@@ -1246,6 +1424,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Puerto Rico",
         "alpha2": "PR",
         "alpha3": "PRI",
         "flag_emoji": "&#127477;&#127479;",
@@ -1253,6 +1432,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Palestine",
         "alpha2": "PS",
         "alpha3": "PSE",
         "flag_emoji": "&#127477;&#127480;",
@@ -1260,6 +1440,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Portugal",
         "alpha2": "PT",
         "alpha3": "PRT",
         "flag_emoji": "&#127477;&#127481;",
@@ -1267,6 +1448,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Palau",
         "alpha2": "PW",
         "alpha3": "PLW",
         "flag_emoji": "&#127477;&#127484;",
@@ -1274,6 +1456,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Paraguay",
         "alpha2": "PY",
         "alpha3": "PRY",
         "flag_emoji": "&#127477;&#127486;",
@@ -1281,6 +1464,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Qatar",
         "alpha2": "QA",
         "alpha3": "QAT",
         "flag_emoji": "&#127478;&#127462;",
@@ -1288,6 +1472,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "R\u00e9union",
         "alpha2": "RE",
         "alpha3": "REU",
         "flag_emoji": "&#127479;&#127466;",
@@ -1295,6 +1480,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Romania",
         "alpha2": "RO",
         "alpha3": "ROU",
         "flag_emoji": "&#127479;&#127476;",
@@ -1302,6 +1488,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Serbia",
         "alpha2": "RS",
         "alpha3": "SRB",
         "flag_emoji": "&#127479;&#127480;",
@@ -1309,6 +1496,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Russian Federation",
         "alpha2": "RU",
         "alpha3": "RUS",
         "flag_emoji": "&#127479;&#127482;",
@@ -1316,6 +1504,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Rwanda",
         "alpha2": "RW",
         "alpha3": "RWA",
         "flag_emoji": "&#127479;&#127484;",
@@ -1323,6 +1512,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saudi Arabia",
         "alpha2": "SA",
         "alpha3": "SAU",
         "flag_emoji": "&#127480;&#127462;",
@@ -1330,6 +1520,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Solomon Islands",
         "alpha2": "SB",
         "alpha3": "SLB",
         "flag_emoji": "&#127480;&#127463;",
@@ -1337,6 +1528,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Seychelles",
         "alpha2": "SC",
         "alpha3": "SYC",
         "flag_emoji": "&#127480;&#127464;",
@@ -1344,6 +1536,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Sudan",
         "alpha2": "SD",
         "alpha3": "SDN",
         "flag_emoji": "&#127480;&#127465;",
@@ -1351,6 +1544,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Sweden",
         "alpha2": "SE",
         "alpha3": "SWE",
         "flag_emoji": "&#127480;&#127466;",
@@ -1358,6 +1552,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Singapore",
         "alpha2": "SG",
         "alpha3": "SGP",
         "flag_emoji": "&#127480;&#127468;",
@@ -1365,6 +1560,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Helena",
         "alpha2": "SH",
         "alpha3": "SHN",
         "flag_emoji": "&#127480;&#127469;",
@@ -1372,6 +1568,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Slovenia",
         "alpha2": "SI",
         "alpha3": "SVN",
         "flag_emoji": "&#127480;&#127470;",
@@ -1379,6 +1576,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Slovakia",
         "alpha2": "SK",
         "alpha3": "SVK",
         "flag_emoji": "&#127480;&#127472;",
@@ -1386,6 +1584,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Sierra Leone",
         "alpha2": "SL",
         "alpha3": "SLE",
         "flag_emoji": "&#127480;&#127473;",
@@ -1393,6 +1592,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "San Marino",
         "alpha2": "SM",
         "alpha3": "SMR",
         "flag_emoji": "&#127480;&#127474;",
@@ -1400,6 +1600,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Senegal",
         "alpha2": "SN",
         "alpha3": "SEN",
         "flag_emoji": "&#127480;&#127475;",
@@ -1407,6 +1608,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Somalia",
         "alpha2": "SO",
         "alpha3": "SOM",
         "flag_emoji": "&#127480;&#127476;",
@@ -1414,6 +1616,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Suriname",
         "alpha2": "SR",
         "alpha3": "SUR",
         "flag_emoji": "&#127480;&#127479;",
@@ -1421,6 +1624,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "South Sudan",
         "alpha2": "SS",
         "alpha3": "SSD",
         "flag_emoji": "&#127480;&#127480;",
@@ -1428,6 +1632,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Sao Tome And Principe",
         "alpha2": "ST",
         "alpha3": "STP",
         "flag_emoji": "&#127480;&#127481;",
@@ -1435,6 +1640,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "El Salvador",
         "alpha2": "SV",
         "alpha3": "SLV",
         "flag_emoji": "&#127480;&#127483;",
@@ -1442,6 +1648,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Sint Maarten",
         "alpha2": "SX",
         "alpha3": "SXM",
         "flag_emoji": "&#127480;&#127485;",
@@ -1449,6 +1656,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Syrian Arab Republic",
         "alpha2": "SY",
         "alpha3": "SYR",
         "flag_emoji": "&#127480;&#127486;",
@@ -1456,6 +1664,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Eswatini (Swaziland)",
         "alpha2": "SZ",
         "alpha3": "SWZ",
         "flag_emoji": "&#127480;&#127487;",
@@ -1463,6 +1672,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Turks and Caicos Islands",
         "alpha2": "TC",
         "alpha3": "TCA",
         "flag_emoji": "&#127481;&#127464;",
@@ -1470,6 +1680,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Chad",
         "alpha2": "TD",
         "alpha3": "TCD",
         "flag_emoji": "&#127481;&#127465;",
@@ -1477,6 +1688,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Togo",
         "alpha2": "TG",
         "alpha3": "TGO",
         "flag_emoji": "&#127481;&#127468;",
@@ -1484,6 +1696,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Thailand",
         "alpha2": "TH",
         "alpha3": "THA",
         "flag_emoji": "&#127481;&#127469;",
@@ -1491,6 +1704,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Tajikistan",
         "alpha2": "TJ",
         "alpha3": "TJK",
         "flag_emoji": "&#127481;&#127471;",
@@ -1498,6 +1712,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Tokelau",
         "alpha2": "TK",
         "alpha3": "TKL",
         "flag_emoji": "&#127481;&#127472;",
@@ -1505,6 +1720,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Timor-leste",
         "alpha2": "TL",
         "alpha3": "TLS",
         "flag_emoji": "&#127481;&#127473;",
@@ -1512,6 +1728,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Turkmenistan",
         "alpha2": "TM",
         "alpha3": "TKM",
         "flag_emoji": "&#127481;&#127474;",
@@ -1519,6 +1736,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Tunisia",
         "alpha2": "TN",
         "alpha3": "TUN",
         "flag_emoji": "&#127481;&#127475;",
@@ -1526,6 +1744,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Tonga",
         "alpha2": "TO",
         "alpha3": "TON",
         "flag_emoji": "&#127481;&#127476;",
@@ -1533,6 +1752,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Turkey",
         "alpha2": "TR",
         "alpha3": "TUR",
         "flag_emoji": "&#127481;&#127479;",
@@ -1540,6 +1760,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Trinidad & Tobago",
         "alpha2": "TT",
         "alpha3": "TTO",
         "flag_emoji": "&#127481;&#127481;",
@@ -1547,6 +1768,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Tuvalu",
         "alpha2": "TV",
         "alpha3": "TUV",
         "flag_emoji": "&#127481;&#127483;",
@@ -1554,6 +1776,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Taiwan",
         "alpha2": "TW",
         "alpha3": "TWN",
         "flag_emoji": "&#127481;&#127484;",
@@ -1561,6 +1784,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Tanzania",
         "alpha2": "TZ",
         "alpha3": "TZA",
         "flag_emoji": "&#127481;&#127487;",
@@ -1568,6 +1792,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Ukraine",
         "alpha2": "UA",
         "alpha3": "UKR",
         "flag_emoji": "&#127482;&#127462;",
@@ -1575,6 +1800,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Uganda",
         "alpha2": "UG",
         "alpha3": "UGA",
         "flag_emoji": "&#127482;&#127468;",
@@ -1582,6 +1808,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "United States",
         "alpha2": "US",
         "alpha3": "USA",
         "flag_emoji": "&#127482;&#127480;",
@@ -1589,6 +1816,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Uruguay",
         "alpha2": "UY",
         "alpha3": "URY",
         "flag_emoji": "&#127482;&#127486;",
@@ -1596,6 +1824,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Uzbekistan",
         "alpha2": "UZ",
         "alpha3": "UZB",
         "flag_emoji": "&#127482;&#127487;",
@@ -1603,6 +1832,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Holy See (vatican City State)",
         "alpha2": "VA",
         "alpha3": "VAT",
         "flag_emoji": "&#127483;&#127462;",
@@ -1610,6 +1840,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Saint Vincent & The Grenadines",
         "alpha2": "VC",
         "alpha3": "VCT",
         "flag_emoji": "&#127483;&#127464;",
@@ -1617,6 +1848,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Venezuela",
         "alpha2": "VE",
         "alpha3": "VEN",
         "flag_emoji": "&#127483;&#127466;",
@@ -1624,6 +1856,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "British Virgin Islands",
         "alpha2": "VG",
         "alpha3": "VGB",
         "flag_emoji": "&#127483;&#127468;",
@@ -1631,6 +1864,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "US Virgin Islands",
         "alpha2": "VI",
         "alpha3": "VIR",
         "flag_emoji": "&#127483;&#127470;",
@@ -1638,6 +1872,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Vietnam",
         "alpha2": "VN",
         "alpha3": "VNM",
         "flag_emoji": "&#127483;&#127475;",
@@ -1645,6 +1880,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Vanuatu",
         "alpha2": "VU",
         "alpha3": "VUT",
         "flag_emoji": "&#127483;&#127482;",
@@ -1652,6 +1888,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Wallis And Futuna",
         "alpha2": "WF",
         "alpha3": "WLF",
         "flag_emoji": "&#127484;&#127467;",
@@ -1659,6 +1896,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Samoa",
         "alpha2": "WS",
         "alpha3": "WSM",
         "flag_emoji": "&#127484;&#127480;",
@@ -1666,6 +1904,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Kosovo",
         "alpha2": "XK",
         "alpha3": "XKX",
         "flag_emoji": "&#127485;&#127472;",
@@ -1673,6 +1912,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Yemen",
         "alpha2": "YE",
         "alpha3": "YEM",
         "flag_emoji": "&#127486;&#127466;",
@@ -1680,6 +1920,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "Mayotte",
         "alpha2": "YT",
         "alpha3": "MYT",
         "flag_emoji": "&#127486;&#127481;",
@@ -1687,6 +1928,7 @@
         "is_moonpay_allowed": false
     },
     {
+        "name": "South Africa",
         "alpha2": "ZA",
         "alpha3": "ZAF",
         "flag_emoji": "&#127487;&#127462;",
@@ -1694,6 +1936,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Zambia",
         "alpha2": "ZM",
         "alpha3": "ZMB",
         "flag_emoji": "&#127487;&#127474;",
@@ -1701,6 +1944,7 @@
         "is_moonpay_allowed": true
     },
     {
+        "name": "Zimbabwe",
         "alpha2": "ZW",
         "alpha3": "ZWE",
         "flag_emoji": "&#127487;&#127484;",

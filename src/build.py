@@ -23,6 +23,7 @@ def main():
     
     for item in phones:
         output[item["name_code"]] = {
+            "name": decode(item["name"]),
             "alpha2": item["name_code"],
             "alpha3": item["name_code_alpha3"],
             "flag_emoji": item["flag_emoji"],
@@ -33,6 +34,7 @@ def main():
     for code, item in moonpay.items():
         if code not in output:
             output[code] = {
+                "name": decode(item["name"]),
                 "alpha2": item["alpha2"],
                 "alpha3": item["alpha3"],
                 "flag_emoji": None,
@@ -46,6 +48,8 @@ def main():
     with open(RESULT_FILE, "w") as out:
         json.dump(output, out, indent=4)
 
+def decode(value: str) -> str:
+    return value.replace("&amp;", "&")
 
 if __name__ == '__main__':
     main()
